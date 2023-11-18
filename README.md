@@ -1,7 +1,7 @@
   - 👋 Hi, I’m @Siri503
   -  👀 I’m interested in:
-        MERN Stack Development
-        Python Full Stack Development
+        >MERN Stack Development.
+        >Python Full Stack Development.
   - 🌱 I’m currently learning:
         Cognitive Skills
         Competitive Coding
