@@ -6,7 +6,7 @@
         >Cognitive Skills,
        > Competitive Coding
   - 💼 I’m looking to collaborate on exciting projects in the fields of MERN Stack development.
-    📫 How to reach me: Connect with me on www.linkedin.com/in/siri-kanthi-achanta-2595b522a
+  - 📫 How to reach me: Connect with me on www.linkedin.com/in/siri-kanthi-achanta-2595b522a
 <!---
 Siri503/Siri503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
