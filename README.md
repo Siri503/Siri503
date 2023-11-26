@@ -2,7 +2,7 @@
   -  👀 I’m interested in:
         >MERN Stack Development,
   - 🌱 I’m currently learning:
-        >Cognitive Skills,
+       >Cognitive Skills,
        > Competitive Coding
   - 💼 I’m looking to collaborate on exciting projects in the fields of MERN Stack development.
   - 📫 How to reach me: Connect with me on www.linkedin.com/in/siri-kanthi-achanta-2595b522a
